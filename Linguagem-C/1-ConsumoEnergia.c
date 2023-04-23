@@ -7,8 +7,8 @@
     scanf("%lf", &qkw);
 
     resultado = ((qkw*(Salario*0.7))/100);
-
-    printf("Custo por kw:R81$ %.2lf\n",(resultado/qkw));
-    printf("Custo do consumo: %.2lf\n",resultado);
-  printf("Custo com desconto: R$: %.2lf\n",(resultado*0.9));
+    
+    printf("Custo por kW: R$ %.2lf\n",(resultado/qkw));
+    printf("Custo do consumo: R$ %.2lf\n",resultado);
+    printf("Custo com desconto: R$ %.2lf\n",(resultado*0.9));
     }
