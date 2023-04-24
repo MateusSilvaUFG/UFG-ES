@@ -5,8 +5,7 @@ int main (){
     scanf("%d %d %d",&x,&y,&z);
     
     for(cont = 0; cont<z; cont++){
-        pa+=x;
-        x+=y;
+        pa += x + cont*y;
     }
      printf("%d \n",pa);
 }

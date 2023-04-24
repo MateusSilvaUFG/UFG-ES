@@ -14,5 +14,5 @@ int main(){
              }
              printf("\n");
                     }
-    else printf("O PRIMEIRO NUMERO NAO E PAR\n");
+    else { printf("O PRIMEIRO NUMERO NAO E PAR\n"); } 
             }
