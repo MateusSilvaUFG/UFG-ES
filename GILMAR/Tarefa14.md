@@ -6,6 +6,19 @@
 |202105052|Pedro Lucas de Oliveira Lara|[
 |202004777|Rafael Estanislau Morais dos Santos|
 
+# ferramentas que estão utilizando no projeto do grupo
+- Ambiente -
+- Versionamento de código - __GitHUB__
+- Ferramentas de colaboração - __WhatsApp__
+- Planejamento - 
+- Qualidade de código - __sonarlint__
+- Criação de código - __VsCode__
+- Continuous Integration - 
+- Monitoramento de erro - 
+- Outras ferramentas - __Supabase__, __Heroku__, 
+
+# poderiamos utilizar;
+
 ## Ambiente
 1. Terminator
 2. Oh My Zsh
