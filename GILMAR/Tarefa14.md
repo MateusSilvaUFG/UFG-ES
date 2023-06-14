@@ -6,18 +6,23 @@
 |202105052|Pedro Lucas de Oliveira Lara|[
 |202004777|Rafael Estanislau Morais dos Santos|
 
-# ferramentas que estão utilizando no projeto do grupo
+# Ferramentas que estamos utilizando no projeto do grupo;
 - Ambiente -
 - Versionamento de código - __GitHUB__
 - Ferramentas de colaboração - __WhatsApp__
-- Planejamento - 
+- Planejamento - __Supabase__
 - Qualidade de código - __sonarlint__
 - Criação de código - __VsCode__
 - Continuous Integration - 
 - Monitoramento de erro - 
-- Outras ferramentas - __Supabase__, __Heroku__, 
+- Outras ferramentas - __Heroku__, 
 
-# poderiamos utilizar;
+# Poderiamos utilizar;
+- StackEdit;
+- Rollbar;
+- Codeship;
+- Code Climate;
+- Mockflow, InVision;
 
 ## Ambiente
 1. Terminator
