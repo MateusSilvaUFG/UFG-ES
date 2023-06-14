@@ -6,11 +6,11 @@
 |202105052|Pedro Lucas de Oliveira Lara|[
 |202004777|Rafael Estanislau Morais dos Santos|
 
-# Ferramentas que estamos utilizando no projeto do grupo.
+## Ferramentas que estamos utilizando no projeto do grupo.
 - Criação de código - __VsCode__
 
 
-# Poderiamos utilizar.
+## Poderiamos utilizar.
 - StackEdit;
 - Rollbar;
 - Codeship;
