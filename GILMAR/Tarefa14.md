@@ -6,18 +6,11 @@
 |202105052|Pedro Lucas de Oliveira Lara|[
 |202004777|Rafael Estanislau Morais dos Santos|
 
-# Ferramentas que estamos utilizando no projeto do grupo;
-- Ambiente -
-- Versionamento de código - __GitHUB__
-- Ferramentas de colaboração - __WhatsApp__
-- Planejamento - __Supabase__
-- Qualidade de código - __sonarlint__
+# Ferramentas que estamos utilizando no projeto do grupo.
 - Criação de código - __VsCode__
-- Continuous Integration - 
-- Monitoramento de erro - 
-- Outras ferramentas - __Heroku__
 
-# Poderiamos utilizar;
+
+# Poderiamos utilizar.
 - StackEdit;
 - Rollbar;
 - Codeship;
@@ -25,47 +18,16 @@
 - Mockflow, InVision;
 - MeisterTask
 
-## Ambiente
-1. Terminator
-2. Oh My Zsh
-3. Docker
+## Cinco mais relevantes.
+1. Mockflow
+2. VsCode
+3. Codeship
+4. Rollbar
+5. Code Climate
 
-## Versionamento de código
-4. GitKraken
-5. Gitlab
+## Cindo menos relevantes.
+1. Terminator - Pois o windows permite separar múltiplos terminais na tela em diversos formatos
+2. Docker - pois o servidor será auto hospedado pelo database as a service do supabase e auto gerenciado pelo heroku.
+3. Slack - organiza as conversas em canais, mas a estrutura pode se tornar desorganizada com o tempo. É fácil perder o contexto das discussões anteriores ou não encontrar informações importantes quando necessário. A falta de uma estrutura clara pode resultar em confusão e ineficiência na comunicação em equipe.
 
-## Ferramentas de colaboração
-6. Slack
-7. MeisterTask
-8. Cuckoo Team
 
-## Planejamento
-9. DbDesigner
-10. Mockflow
-11. InVision
-12. MindMeister
-
-## Qualidade de código
-13. Code Climate
-
-## Criação de código
-14. Vs Code
-15. Atom
-16. Vim
-17. c9.io
-
-## Continuous Integration
-18. circleCI
-19. Codeship
-20. Travis CI
-
-## Monitoramento
-21. Rollbar
-22. New Relic
-
-## Bônus
-23. StackEdit
-24. CodeShare
-25. Postman
-26. Uppy
-27. Franz
