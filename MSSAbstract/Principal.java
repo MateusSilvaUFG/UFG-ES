@@ -4,7 +4,7 @@ public class Principal {
     public static void main(String[] args) {
         Professor maria = new Professor("Maria", 2, 3000);
         Professor jose = new Professor("Jose", 3, 2000);
-        Aluno primeiroAluno = new Aluno("M", 12345);
+        Aluno primeiroAluno = new Aluno("Mateus Silva", 12345);
 
         Estudante[] pessoasQueEstudam = new Estudante[3];
         pessoasQueEstudam[0] = maria;
@@ -16,13 +16,11 @@ public class Principal {
         }
 
         Prova[] provasDaFaculdade = new Prova[3];
-        for (int i = 0; i < 3; i++) {
-            String[] questoes = {"P" + (i + 1) + "Q1", "P" + (i + 1) + "Q2"};
-            provasDaFaculdade[i] = new Prova(questoes);
-        }
+        ProfessorUniversitario professorUniversitario = new ProfessorUniversitario("João", 4, 4000);
+        provasDaFaculdade = professorUniversitario.elaborarProvas();
 
-        Prova prova = provasDaFaculdade[0];
-        double nota = maria.corrigirProva(prova);
+        primeiroAluno.fazerProva(provasDaFaculdade[0]);
+        double nota = maria.corrigirProva(provasDaFaculdade[0]);
         System.out.println("O aluno " + primeiroAluno.getnome() + " tirou " + nota + " na prova.");
     }
 }
