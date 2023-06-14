@@ -15,7 +15,7 @@
 - Criação de código - __VsCode__
 - Continuous Integration - 
 - Monitoramento de erro - 
-- Outras ferramentas - __Heroku__, 
+- Outras ferramentas - __Heroku__
 
 # Poderiamos utilizar;
 - StackEdit;
