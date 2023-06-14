@@ -23,6 +23,7 @@
 - Codeship;
 - Code Climate;
 - Mockflow, InVision;
+- MeisterTask
 
 ## Ambiente
 1. Terminator
