@@ -1,7 +1,6 @@
 |Matrícula|Nome|
 |---|---|
 |202009561|Gabriel Cardoso de Castro|
-|202004756|Gustavo Alves Marçal|
 |201802778|Mateus Silva de Sousa|
 |202105052|Pedro Lucas de Oliveira Lara|[
 |202004777|Rafael Estanislau Morais dos Santos|
