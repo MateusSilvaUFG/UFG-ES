@@ -15,5 +15,4 @@ public class ResolucaoTela{
 
         System.out.println("Resolução da tela: " + screenWidth + "x" + screenHight);
     }
-
 }
